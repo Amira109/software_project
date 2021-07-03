@@ -11,7 +11,7 @@
       <div class="row intro_row">
         <div class="col-xl-8 col-lg-10 offset-xl-2 offset-lg-1">
           <div class="intro_text text-center">
-            <p>Maecenas sollicitudin tincidunt maximus. Morbi tempus malesuada erat sed pellentesque. Donec pharetra mattis nulla, id laoreet neque scelerisque at. Quisque eget sem non ligula consectetur ultrices in quis augue. Donec imperd iet leo eget tortor dictum, eget varius eros sagittis. Curabitur tempor dignissim massa ut faucibus sollicitudin tinci dunt maximus. Morbi tempus malesuada erat sed pellentesque. Donec pharetra mattis nulla, id laoreet neque scele risque at. Quisque eget sem non ligula consectetur ultrices in quis augue. Donec imperdiet leo eget tortor dictum, eget varius eros sagittis. Curabitur tempor dignissim massa ut faucibus.</p>
+            <p>Maecenas biggest developers care. Malesuada soccer season but was beating. Donec pharetra mattis nulla, id laoreet neque vitae at. In the non ligula consectetur ultrices quis augue Quisque eget sem. The lion until imperd descryed macro need it, Listing peanut balls. Chat at soccer biggest mass as throat care tinci road. Malesuada soccer season but was beating. Donec pharetra mattis nulla, id laoreet at a position to judge, nor of wickedness. In the non ligula consectetur ultrices quis augue Quisque eget sem. The lion need financing until the temperature was, Listing peanut balls. Mass soccer chat at the site.</p>
           </div>
         </div>
       </div>

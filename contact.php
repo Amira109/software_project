@@ -10,7 +10,7 @@
               <h1>Say Hello</h1>
             </div>
             <div class="contact_text text-center">
-              <p>Maecenas sollicitudin tincidunt maximus. Morbi tempus malesuada erat sed pellentesque. Donec pharetra mattis nulla, id laoreet neque scelerisque at. Quisque eget sem non ligula consectetur ultrices in quis augue. Donec imperd iet leo eget tortor dictum, eget varius eros sagittis.</p>
+              <p>Maecenas biggest developers care. Malesuada soccer season but was beating. Donec pharetra mattis nulla, id laoreet neque vitae at. In the non ligula consectetur ultrices quis augue Quisque eget sem. The lion until imperd descryed macro need it, Listing peanut balls. Chat at soccer biggest mass as throat care tinci road. Malesuada soccer season but was beating. Donec pharetra mattis nulla, id laoreet at a position to judge, nor of wickedness. In the non ligula consectetur ultrices quis augue Quisque eget sem. The lion need financing until the temperature was, Listing peanut balls. Mass soccer chat at the site.</p>
             </div>
             <div class="contact_form_container">
               <form action="#" class="contact_form text-center">

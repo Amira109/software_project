@@ -1,10 +1,5 @@
 <?php
-/**
-* Description:	The main class for Database.
-* Author:		Joken Villanueva
-* Date Created:	october 27, 2013
-* Revised By:		
-*/
+
 
 //Database Constants
 defined('DB_SERVER') ? null : define("DB_SERVER","localhost");//define our database server
